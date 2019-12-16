@@ -1,0 +1,1000 @@
+   54  small.list.sort.py
+   55  ./small.list.sort.py
+   56  ./SmallListSort.py
+   57  chmod +x ./SmallListSort.py
+   58  ./SmallListSort.py
+   59  ./2.py
+   60  chmod +x ./SmallListSort2.py
+   61  ./SmallListSort2.py
+   62  chmod +x ./for.py
+   63  ./for.py
+   64  chmod +x ./listsort.py
+   65  ./listsort.py
+   66  python
+   67  chmod +x ./listsort.py
+   68  ./listsort
+   69  ./listsort.py
+   70  chmod +x./listsort.py
+   71  chmod +x ./listsort.py
+   72  ./listsort.py
+   73  ./listsort2.py
+   74  ./listsort3.py
+   75  ./listsort4.py
+   76  ./practice.py
+   77  ./even.py
+   78  ./practice.py
+   79  ./even2.py
+   80  ./evennumber2.py
+   81  chmod +x ./counteven.py
+   82  ./counteven.py
+   83  .evennumber2.py
+   84  ./evennumber2.py
+   85  ./evennumber3.py
+   86  ./evennumber4.py
+   87  ./counteven.py
+   88  ./evennumber4.py
+   89  ./forloop.py
+   90  ./forloop1.py
+   91  ./listsort.py
+   92  ./listsort2.py
+   93  ./listsort3.py
+   94  ./listsort4.py
+   95  ./listsort2.py
+   96  ./listsort3.py
+   97  ./practice.py
+   98  ./counteven.py
+   99  python
+  100  ./mean.py
+  101  ./mean2.py
+  102  ./oddnumber.py
+  103  ./prectice.py
+  104  ./practice.py
+  105  ./prime.py
+  106  ./sortlist.py
+  107  ./practice.py
+  108  ./defmean.py
+  109  ./practice.py
+  110  R
+  111  ./practice.py
+  112  python
+  113  ./nov.py
+  114  ./nov1.py
+  115  chmod +x ./nov1.py
+  116  ./nov1.py
+  117  chmod +x ./nov1.py
+  118  ./nov1.py
+  119  ./secb.py
+  120  chmod +x ./secb.py
+  121  ./secb.py
+  122  chmod +x ./nov.py
+  123  ./nov.py
+  124  chmod +x ./secb.py
+  125  ./secb.py
+  126  chmod +x ./secb.py
+  127  ./secb.py
+  128  chmod +x ./mat.py
+  129  ./mat.py
+  130  ./secb.py
+  131  ./mat.py
+  132  chmod +x ./mat.py
+  133  ./mat.py
+  134  chmod +x ./secb.py
+  135  ./secb.py
+  136  chmod +x ./while.py
+  137  ./while.py
+  138  python
+  139  ls
+  140  ls -ltr
+  141  cd Downloads
+  142  mkdir exam2019
+  143  ls -ltr
+  144  cd exam2019
+  145  pwd
+  146  du -sh exam2019
+  147  touch 
+  148  du -sh touch
+  149  du -sh
+  150  cd
+  151  pwd
+  152  cd
+  153  pwd
+  154  cd .
+  155  cd exam2019
+  156  cd downloads
+  157  cd Downloads
+  158  cd exam2019
+  159  cd .
+  160  pwd
+  161  file
+  162  cd ..
+  163  cd .
+  164  pwd
+  165  mkdir today
+  166  cd today
+  167  cd ..
+  168  mkdir today
+  169  ls -ltr
+  170  rmdir touch
+  171  cd Downloads
+  172  mkdir today
+  173  ls -ltr
+  174  rmdir today
+  175  ls -ltr
+  176  cd ..
+  177  cd
+  178  pwd
+  179  mkdir today
+  180  ls -ltr
+  181  rmdir today
+  182  cd today
+  183  mkdir today
+  184  cd today
+  185  cd ..
+  186  rmdir today
+  187  cd
+  188  cd ..
+  189  cd Desktop
+  190  pwd
+  191  cd ..
+  192  cd
+  193  cd .
+  194  pwd
+  195  cd
+  196  pwd
+  197  cd
+  198  cd ..
+  199  pwd
+  200  cd
+  201  pwd
+  202  cd /
+  203  pwd
+  204  cd Downloads/exam2019
+  205  cd Downloads
+  206  cd Download/exam2019
+  207  cd Download
+  208  ls -ltr
+  209  cd
+  210  ls -ltr
+  211  cd Downloads/exam2019
+  212  cd~
+  213  cd
+  214  pwd
+  215  cd dir\songs
+  216  cd Downloads
+  217  cd exam2019
+  218  touch file
+  219  pwd
+  220  cd -
+  221  cd ..
+  222  cd Downloads/exam2019
+  223  pwd
+  224  cd ..
+  225  rmdir exam2019
+  226  cd exam2019
+  227  ls -ltr
+  228  ls
+  229  rm file
+  230  cd ..
+  231  rmdir exam2019
+  232  cd
+  233  cd Downloads
+  234  pwd
+  235  mkdir dir1
+  236  cd dir1
+  237  mkdir dir2/dir3
+  238  mkdir -p dir2/dir3
+  239  pwd
+  240  cd dir2
+  241  pwd
+  242  cd dir3
+  243  pwd
+  244  cd ..
+  245  rmdir dir3
+  246  cd ..
+  247  rmdir dir2
+  248  cd ..
+  249  rmdir dir1
+  250  cd
+  251  cd ..
+  252  pwd
+  253  cd .
+  254  cd
+  255  cd Downloads
+  256  cd
+  257  cd /
+  258  pwd
+  259  cd
+  260   
+  261  man help
+  262  ls --help
+  263  q
+  264  ls -ltr
+  265  touch file
+  266  ls -ltr
+  267  chmod 777 file
+  268  ls -ltr
+  269  chmod 664 file
+  270  ls -ltr
+  271  cat new
+  272  rm new
+  273  cat new
+  274  more prime.py
+  275  less prime.py
+  276  su
+  277  ls -ltr
+  278  sudo adduser new
+  279  sudo chown new file
+  280  ls -ltr
+  281  sudo chown deepali file
+  282  ls -ltr
+  283  sudo chgrp new file
+  284  ls -ltr
+  285  cd ..
+  286  cd
+  287  chgrp deepali file
+  288  ls -ltr
+  289  cd .
+  290  pwd
+  291  vi file
+  292  vim file
+  293  head
+  294  head file
+  295  head -l2 file
+  296  head -n2 file
+  297  head -|2 file
+  298  head -l3 file
+  299  tail file
+  300  more file
+  301  less file
+  302  vi file
+  303  head -l2 file
+  304  vi file
+  305  head file
+  306  tail file
+  307  vi file
+  308  :/ lord
+  309  n
+  310  vi file
+  311  mv file nfile
+  312  vi nfile
+  313  ls -ltr
+  314  mv nfile Downloads
+  315  ls -ltr
+  316  cd Downloads
+  317  ls
+  318  ls -ltr
+  319  cd
+  320  cd downloads
+  321  cd Downloads
+  322  rmdir nfile
+  323  cd
+  324  touch file
+  325  vi file
+  326  mv exam2019 Documents
+  327  mv exam2019 Downloads Documents
+  328  cd Downloads
+  329  pwd
+  330  cd Downloads
+  331  ls -ltr
+  332  mv Documents Downloads
+  333  ls -ltr
+  334  cd Downloads
+  335  ls -ltr
+  336  cd
+  337  ls -ltr
+  338  mv Downloads Documents
+  339  touch f1
+  340  touch f2
+  341  vi f1
+  342  cp f1 f2
+  343  vi f2
+  344  vi f1
+  345  cp f1 f2
+  346  vi f2
+  347  wc f1
+  348  wc -clw f1
+  349  wc -l f1
+  350  vi f1
+  351  wc -l f1
+  352  wc
+  353  wc f1
+  354  sort f1
+  355  sort -r f1
+  356  man sort
+  357  sort -d f1
+  358  vi f1
+  359  grep hello f1
+  360  grep ^hello f1
+  361  vi f1
+  362  grep new f1
+  363  grep ^hello f1
+  364  grep -v -e new -e hello 
+  365  grep -v -e "new" -e "hello" 
+  366  grep -v -e new -e hello f1
+  367  cat f3
+  368  cat f1 | wc -l
+  369  vi f1
+  370  cat f1 | wc
+  371  more f1
+  372  vi f1
+  373  cat f1 | wc
+  374  vi f1
+  375  cat f1 | wc
+  376  mv /home/deepali/Documents/Downloads /home/deepali/Downloads
+  377  printenv
+  378  printenv DOG
+  379  eco$path
+  380  eco$HOME
+  381  echo$HOME
+  382  echo $HOME
+  383  echo $PATH
+  384  echo $MAIL
+  385  echo $PS1
+  386  echo $JAVA_HOME
+  387  more .bashrc
+  388  x=5
+  389  x
+  390  echo$x
+  391  echo $x
+  392  read x
+  393  vi test.sh
+  394  read a
+  395  sh test.sh
+  396  vi test.sh
+  397  sh test.sh
+  398  vi test.sh
+  399  sh test.sh
+  400  vi test.sh
+  401  sh test.sh
+  402  x=77
+  403  x='expr $x+1'
+  404  x
+  405  echo $x
+  406  vi test.sh
+  407  man expr
+  408  x=`expr $x+1`
+  409  vi test.sh
+  410  sh test.sh
+  411  vi test.sh
+  412  sh test.sh
+  413  vi test.sh
+  414  cat -n new
+  415  ls -ltr
+  416  more f1
+  417  more f2
+  418  wc f1
+  419  wc -clw f1
+  420  wc -l f1
+  421  wc -c f1
+  422  wc -w f1
+  423  vi f1
+  424  sort f1
+  425  sort
+  426  sort -r f1
+  427  cp fi f2
+  428  cp f1 f2
+  429  vi f2
+  430  vi f1
+  431  grep hi f1
+  432  grep ^hi f1
+  433  vi f1
+  434  grep -v -e hi -e bi f1
+  435  cat f1 | wc -l
+  436  vi f1
+  437  cat f1 | wc -l
+  438  vi f1
+  439  cat f1 | wc -l
+  440  vi f1
+  441  head -l2 f1 | wc -c
+  442  head -n2 f1 | wc -c
+  443  sort test | head -1 wc -c
+  444  sort test | head -n2 |  wc -c
+  445  sort f1 | head -n2 |  wc -c
+  446  vi f1
+  447  sort f1
+  448  ??>
+  449  fi >> f2
+  450  f1 >> f2
+  451  f1 > f2
+  452  diff f1 f2
+  453  vi f2
+  454  diff f1 f2
+  455  vi f1
+  456  diff f1 f2
+  457  more f1
+  458  more f2
+  459  cmp f1 f2
+  460  vi f1
+  461  vi f2
+  462  cmp f1 f2
+  463  top
+  464  htop
+  465  df 
+  466  df f1
+  467  df -h f1
+  468  du f1
+  469  df
+  470  df f2
+  471  du f1
+  472  du -sh f2
+  473  df -h f1
+  474  uptime
+  475  who are you
+  476  who
+  477  cat
+  478  cat f1
+  479  c
+  480  # c
+  481  ls
+  482  ls /
+  483  ls -F/
+  484  ls-F/
+  485  ls -l f1
+  486  ls -F /
+  487  ll
+  488  ls
+  489  mkdir -P deep/shar
+  490  mkdir -p deep/shar
+  491  cd shar
+  492  cd deep
+  493  cd shar
+  494  pwd
+  495  cd
+  496  cd deep
+  497  cd shar
+  498  cd .
+  499  cd ..
+  500  rmdir shar
+  501  ls -ltr
+  502  cd ..
+  503  rmdir deep
+  504  cp f1/f2
+  505  cp f1 f2
+  506  more f1
+  507  more f2
+  508  mkdir test
+  509  mv f1 test
+  510  cd test
+  511  ls -ltr
+  512  rm f1
+  513  cd
+  514  rmdir test
+  515  cat f2
+  516  ls -l f2
+  517  ls -ltr
+  518  touch f2
+  519  ls -ltr
+  520  df
+  521  df f2
+  522  uptime
+  523  cat -nA f2
+  524  cat -n f2
+  525  more -l2 f1
+  526  more -l2 f2
+  527  more -|2 f2
+  528  head -2 f2
+  529  head -3 f2
+  530  head -n3 f2
+  531  head -|3 f2
+  532  tail -1 f2
+  533  head f2
+  534  tail f2
+  535  more f2
+  536  less f2
+  537  touch test
+  538  vi test
+  539  head -2 f2 test
+  540  file f2
+  541  file f2 test
+  542  spell f2
+  543  spell test
+  544  cmp f2 test
+  545  diff f2 test
+  546  zcat f2 test
+  547  ls -ltr
+  548  rm f2
+  549  rm test
+  550  ls -ltr
+  551  cd Documents
+  552  exam
+  553  mkdir exam
+  554  cd exam
+  555  pwd
+  556  cd
+  557  cd Documents
+  558  cd exam
+  559  pwd
+  560  cd ..
+  561  pwd
+  562  cd
+  563  pwd
+  564  cd /
+  565  pwd
+  566  cd
+  567  pwd
+  568  cd
+  569  pwd
+  570  touch test
+  571  ls -ltr
+  572  chmod 640 test
+  573  ls -ltr
+  574  chmod 664 test
+  575  ls -ltr
+  576  cat
+  577  vi test
+  578  cat test
+  579  cat -n test
+  580  cat -nA test
+  581  more test
+  582  sudo adduser root
+  583  sudo chown root test
+  584  ls -ltr
+  585  sudo chown deepali test
+  586  ls -ltr
+  587  sudo chgrp root test
+  588  ls -ltr
+  589  sudo chgrp deepali test
+  590  ls -ltr
+  591  vi test
+  592  head test
+  593  head -5 test
+  594  tail -2 test
+  595  vi test
+  596  variable='hello'
+  597  echo $variable
+  598  echo ls -ltr
+  599  ls -ltr
+  600  cd documents
+  601  cd Downloads
+  602  ls -ltr
+  603  more nfile
+  604  rm nfile
+  605  ls -ltr
+  606  cd
+  607  pwd
+  608  cd
+  609  cd .
+  610  pwd
+  611  ]$HOME
+  612  eco$HOME
+  613  echo $HOME
+  614  echo$HOME
+  615  echo $home
+  616  echo $ HOME
+  617  echo $HOME
+  618  echo $PATH
+  619  echo $MAIL
+  620  echo $USER
+  621  echo $SHELL
+  622  echo $TERM
+  623  echo $PS1
+  624  setenv dog
+  625  printenv
+  626  ls -ltr
+  627  $ sh test.sh
+  628  $ test.sh
+  629  $sh test.sh
+  630  x=5
+  631  $x
+  632  echo $x
+  633  vi temp.sh
+  634  sh temp.sh
+  635  vi temp.sh
+  636  sh temp.sh
+  637  vi temp.sh
+  638  vi test.sh
+  639  ls -ltr
+  640  chmod 755 temp.sh
+  641  sh temp.sh
+  642  ls -ltr
+  643  chmod 664 temp.sh
+  644  ls -ltr
+  645  x=10
+  646  echo $x
+  647  xn=SUST
+  648  echo $xn
+  649  vech=bus
+  650  n=10
+  651  echo $vech
+  652  echo $n
+  653  expr 1+3
+  654  sum=20+4
+  655  echo $sum
+  656  vi temp.sh
+  657  sh temp.sh
+  658  sh test.sh
+  659  vi test.sh
+  660  vi temp.sh
+  661  sh test.sh
+  662  sh temp.sh
+  663  5
+  664  vi test.sh
+  665  sh temp.sh
+  666  vi temp.sh
+  667  vi test.sh
+  668  test.sh
+  669  sh test.sh
+  670  ./test.sh
+  671  x=7
+  672  x
+  673  echo $x
+  674  vi test.sh
+  675  vi temp.sh
+  676  sh temp.sh
+  677  vi temp.sh
+  678  sh temp.sh
+  679  vi temp.sh
+  680  sh temp.sh
+  681  du -sh Documents
+  682  du Documents
+  683  pwd
+  684  vi temp.sh 
+  685  sh temp.sh
+  686  vi test.sh
+  687  vi temp.sh
+  688  sh temp.sh
+  689  vi temp.sh
+  690  sh temp.sh
+  691  vi temp.sh
+  692  sh temp.sh
+  693  vi temp.sh
+  694  sh temp.sh
+  695  vi temp.sh
+  696  sh temp.sh
+  697  vi temp.sh
+  698  sh temp.sh
+  699  vi temp.sh
+  700  sh temp.sh
+  701  vi temp.sh
+  702  sh temp.sh
+  703  vi temp.sh
+  704  sh temp.sh
+  705  vi temp.sh
+  706  sh temp.sh
+  707  vi temp.sh
+  708  sh temp.sh
+  709  vi temp.sh
+  710  sh temp.sh
+  711  cat 
+  712  ls -ltr
+  713  more file
+  714  rm file
+  715  touch file
+  716  ls -ltr
+  717  mv file nfile
+  718  ls -ltr
+  719  pwd
+  720  mv nfile /home/deepali/Documents
+  721  ls -ltr
+  722  cd Documents
+  723  ls -ltr
+  724  mv nfile /home/deepali
+  725  cd
+  726  ls -ltr
+  727  mv nfile /home/deepali/Documents
+  728  ls -ltr
+  729  mv /home/deepali/Documents /home/deepali/Downloads
+  730  cd Downloads
+  731  ls -ltr
+  732  mv Documents /home/deepali/Documents
+  733  cd
+  734  mv nfile /home/deepali/Downloads
+  735  cd Documents
+  736  ls -ltr
+  737  mv nfile Downloads
+  738  cd
+  739  mv nfile Downloads
+  740  ls -ltr
+  741  cd Downloads
+  742  ls -ltr
+  743  cd
+  744  cd Documents
+  745  rm Documents
+  746  touch file
+  747  mv file Downloads
+  748  ls -ltr
+  749  rm Downloads
+  750  cd
+  751  touch file
+  752  mv file Documents
+  753  ls -ltr
+  754  mv /home/deepali/Documents file /home/deepali/Downloads
+  755  mv Documents /home/deepali/Documents
+  756  mv /home/deepali/Downloads/ Documents /home/deepali/Documents/
+  757  cd Downloads
+  758  mv Documents /home/deepali/Documents
+  759  cd
+  760  ls -ltr
+  761  touch file
+  762  mv file Documents
+  763  mv /home/deepali/Documents/ file /home/deepali/Downloads/
+  764  cd Downloads
+  765  mv Documents /home/deepali/Documents
+  766  cd
+  767  ls -ltr
+  768  cd Documents
+  769  ls -ltr
+  770  mv file /home/deepali
+  771  cd
+  772  ls -ltr
+  773  vi file 
+  774  touch file2
+  775  cp -r file file2
+  776  more file2
+  777  more file
+  778  wc -l file
+  779  wc -c file
+  780  wc -clw file
+  781  sort file
+  782  sort -r file
+  783  touch file
+  784  mv file Documents
+  785  mv /home/deepali/Documents/file /home/deepali/Downloads/
+  786  vi file
+  787  grep ds file
+  788  grep ^ds file
+  789  grep -v -e ds  -e integrative file
+  790  more file
+  791  cat file | wc -l
+  792  cat file | wc -c
+  793  more file
+  794  cat file | wc -clw
+  795  cat file | wc -c
+  796  cat file | wc -l
+  797  cat file | wc -w
+  798  head -2 file | wc -c
+  799  ls -ltr
+  800  more file2
+  801  wc file
+  802  cd Downloads
+  803  ls -ltr
+  804  mv /home/deepali/Downloads/file /home/deepali/Documents/
+  805  cd
+  806  ls -ltr
+  807   vi file
+  808  vi file2
+  809  cmp file file2
+  810  diff file file2
+  811  diff file2 file
+  812  cp file file2
+  813  more file
+  814  more file2
+  815  vi file2
+  816  cmp file file2
+  817  diff file file2
+  818  top
+  819  htop
+  820  df
+  821  df -h file2
+  822  df
+  823  df -h file
+  824  du
+  825  du -sh file
+  826  du -sh Downloads
+  827  x=5
+  828  $x
+  829  echo $x
+  830  vi test.sh
+  831  sh test.sh
+  832  vi test.sh
+  833  sh test.sh
+  834  vi test.sh
+  835  sh test.sh
+  836  vi test.sh
+  837  sh test.sh
+  838  vi temp.sh
+  839  sh test.sh
+  840  vi test.sh
+  841  sh test.sh
+  842  vi test.sh
+  843  sh test.sh
+  844  vi test.sh
+  845  sh test.sh
+  846  vi test.sh
+  847  sh test.sh
+  848  vi test.sh
+  849  sh test.sh
+  850  vi test.sh
+  851  sh test.sh
+  852  mysql -u root -p
+  853  python
+  854  chmod +x ./practice.py
+  855  ./practice.py
+  856  chmod +x ./practice.py
+  857  ./practice.py
+  858  mysql -u root -p
+  859  python
+  860  mysql -u root -p
+  861  chmod +x ./pythonsessional.py
+  862  ./pythonsessional.py
+  863  ./practice.py
+  864  chmod +x ./defSD.py
+  865  ./defSD.py
+  866  python
+  867  mysql -u root -p
+  868  hadoop
+  869  R
+  870  ls
+  871  rm  Gunjan_Major_ML.r  
+  872  R
+  873  R
+  874  R
+  875  sudo apt-get update
+  876  sudo yum update
+  877  pwd
+  878  cd
+  879  cd ..
+  880  cd
+  881  pwd
+  882  cd ..
+  883  pwd
+  884  cd /
+  885  pwd
+  886  cd
+  887  pwd
+  888  ls -ltr
+  889  pwd
+  890  sudo yum update -y
+  891  java --version
+  892  sudo dnf search openjdk
+  893  sudo dnf install java-11-openjdk.x86_64
+  894  java --version
+  895  java -version
+  896  sudo adduser hadoop
+  897  sudo passwd hadoop
+  898  sudo wget http://archive.apache.org/dist/hadoop/core/hadoop-3.1.0/hadoop-3.1.0.tar.gz
+  899  ll
+  900  tar -xvf hadoop-3.1.0.tar.gz
+  901  ll
+  902  pwd
+  903  cd /etc
+  904  ..
+  905  pwd
+  906  cd ..
+  907  pwd
+  908  ll
+  909  cd /home/deepali/
+  910  ll
+  911  cd hadoop-3.1.0/
+  912  ll
+  913  cd etc/
+  914  cd hadoop/
+  915  ll
+  916  pwd
+  917  cd ~
+  918  pwd
+  919  ll
+  920  cd hadoop-3.1.0/
+  921  ll
+  922  cd ~
+  923  pwd
+  924  ll
+  925  cd hadoop-3.1.0/
+  926  ll
+  927  cd etc/
+  928  ll
+  929  cd hadoop/
+  930  ll
+  931  pwd
+  932  sudo vi ~/.bashrc
+  933  locate jdk1.8
+  934  cd ~
+  935  ll
+  936  pwd
+  937  where jdk
+  938  cd /usr/lib
+  939  ll
+  940  cd java/
+  941  ll
+  942  cd ..
+  943  ll
+  944  cd jvm
+  945  ll
+  946  cd java-1.8.0-openjdk-1.8.0.232.b09-0.fc30.x86_64/
+  947  ll
+  948  cd jre/
+  949  ll
+  950  cd ..
+  951  pwd
+  952  sudo vi ~/.bashrc
+  953  java -version
+  954  source ~/.bashrc
+  955  hadoop version
+  956  cd ~
+  957  ll
+  958  pwd
+  959  wget -c --header "Cookie: oraclelicense=accept-securebackup-cookie" http://download.oracle.com/otn-pub/java/jdk/8u131-b11/d54c1d3a095b4ff2b6607d096fa80163/jdk-8u131-linux-x64.tar.gz
+  960  ll
+  961  tar -xvf jdk-8u131-linux-x64.tar.gz
+  962  pwd
+  963  ll
+  964  sudo vi ~/.bashrc
+  965  cd usr
+  966  cd usr/
+  967  cd jdk
+  968  cd jdk-8u131-linux-x64.tar.gz
+  969  cd jdk1.8.0_131
+  970  pwd
+  971  sudo vi ~/.bashrc
+  972  Zpwd
+  973  pwd
+  974  sudo vi ~/.bashrc
+  975  ls -ltr
+  976  mkdir temp
+  977  ls -ltr
+  978  ls -lta
+  979  ls -ltr
+  980  5*5
+  981  ls -ltr
+  982  q()
+  983  R
+  984  ls -ltr
+  985  rm."basic.Rdata"
+  986  rm basic.Rdata
+  987  ls -ltr
+  988  touch fi
+  989  ls -ltr
+  990  rm fi
+  991  ls -ltr
+  992  less name.csv
+  993  rm name.csv
+  994  ls -ltr
+  995  rm file.Rdata
+  996  ls -ltr
+  997  less name.csv
+  998  rm name.csv
+  999  ls -ltr
+ 1000  R
+ 1001  cal
+ 1002  date
+ 1003  pwd
+ 1004  ls
+ 1005  ll
+ 1006  ls
+ 1007  ll -r
+ 1008  su hadoop
+ 1009  ll
+ 1010  mkdir test
+ 1011  cd Videos/
+ 1012  cd -
+ 1013  cd
+ 1014  cd /
+ 1015  cd ~
+ 1016  pwd
+ 1017  cd /
+ 1018  pwd
+ 1019  cd root
+ 1020  sudo cd root
+ 1021  ssh-keygen
+ 1022  cd ~/.ssh
+ 1023  ll
+ 1024  cat id_rsa
+ 1025  cat id_rsa.pub 
+ 1026  history
+ 1027  ll
+ 1028  cd ~
+ 1029  l
+ 1030  ll
+ 1031  cd test/
+ 1032  ll
+ 1033  cat >emp.txt
+ 1034  ll
+ 1035  cat emp.txt 
+ 1036  wc e`
+ 1037  wc emp.txt 
+ 1038  cat emp.txt >>newemp.txt
+ 1039  ll
+ 1040  cat newemp.txt 
+ 1041  cat emp.txt 
+ 1042  nano emp.txt 
+ 1043  sudo yum install nano
+ 1044  nano emp.txt 
+ 1045  cat emp.txt 
+ 1046  nano emp.txt 
+ 1047  sudo yum git-core
+ 1048  sudo yum git
+ 1049  sudo yum install dnf-git
+ 1050  git --version
+ 1051  history
+ 1052  pwd
+ 1053  history >commands.txt
